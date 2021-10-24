@@ -246,10 +246,10 @@ body {
 }
 
 .btn_one {
-   font-size: 18px;
+    font-size: 18px;
     font-family: 'Josefin Sans', sans-serif;
-    color: #fff;
-    background:rgb(255, 50, 50) ;
+    color: rgb(255, 50, 50);
+    background: #fff;
     border: 3px solid #fff;
     padding: 8px 40px;
     border-radius: 80px;
@@ -259,7 +259,7 @@ body {
 }
 
 .btn_one:hover {
-     cursor: pointer;
+    cursor: pointer;
     padding: 8px 60px;
 }
 
@@ -280,7 +280,6 @@ body {
     cursor: pointer;
     padding: 8px 60px;
 }
-
 .container form input {
     width: 46%;
     margin: 20px 1%;
